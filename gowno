@@ -10,7 +10,7 @@ import net.minecraft.util.ResourceLocation;
 import pl.miko242.mpack.models.basic.WingsModelBase;
 import pl.miko242.mpack.modules.Wings3DModule;
 
-public class ItemModel extends WingsModelBase {
+public class WingsModel extends WingsModelBase {
 
     private ModelRenderer rightWing;
     private ModelRenderer leftWing;
