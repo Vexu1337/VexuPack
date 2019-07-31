@@ -1,2 +1,2 @@
 czarny_ksiadz;28
-_goodorange;_LTE
+_goodorange;28
